@@ -55,3 +55,9 @@ Here are some screenshots of the app demonstrating some core features.
 <h3>Similiarly if User guessed correctly before 3 tries he/she will receive a luck master title</h3><br>
 <img src="https://i.imgur.com/ru7oC7u.png" width=700 height=500>
 <br>
+
+## Challenges Faced
+1. Being a linux and mac user, switching back to windows for creating this app was challenging and consumed a good amount of time.
+2. Environment set-up was not working fine on linux and switched and fortuanely my flutter set-up in windows waa quite similiar.
+3. Components were a different from react-js and handeling event was also challengins.
+4. All these becomes more difficult with core i3, but I'm fortunate I was able to complete in given time frame.
