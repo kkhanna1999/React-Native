@@ -58,6 +58,6 @@ Here are some screenshots of the app demonstrating some core features.
 
 ## Challenges Faced
 1. Being a linux and mac user, switching back to windows for creating this app was challenging and consumed a good amount of time.
-2. Environment set-up was not working fine on linux and switched and fortuanely my flutter set-up in windows waa quite similiar.
-3. Components were a different from react-js and handeling event was also challengins.
-4. All these becomes more difficult with core i3, but I'm fortunate I was able to complete in given time frame.
+2. Environment set-up was not working fine on linux and switched and fortuanely my flutter set-up in windows was quite similiar.
+3. Components were a different from react-js and handeling event was also challenging.
+4. All these becomes more difficult with core i3, but I'm glad that I was able to complete task in given time frame.
